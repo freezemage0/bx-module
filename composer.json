@@ -15,8 +15,7 @@
       "composer/installers": "^2"
     },
     "extra": {
-        "bitrix-dir": "local",
-        "installer-name": "freezemage.module"
+        "installer-name": "module"
     },
     "config": {
         "allow-plugins": {
