@@ -14,6 +14,9 @@
       "php": "^8.1",
       "composer/installers": "^2"
     },
+    "extra": {
+        "bitrix-dir": "local"
+    },
     "config": {
         "allow-plugins": {
             "composer/installers": true
